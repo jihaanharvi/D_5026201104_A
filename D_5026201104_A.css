@@ -1,0 +1,28 @@
+.container{
+    padding: 3% 5%;
+}
+.card-header {
+    background-color: transparent;
+    padding: 3% 5%;
+    margin-bottom: 10px;
+    border-bottom: none;
+  }
+.row{
+    padding: 0% 5%;
+}
+@media (min-width: 900px) { 
+    .container{
+        padding: 5% 15%;
+    }
+}
+.btn-primary{
+    background-color: blue;
+    color: white;
+    border: none;
+}
+.btn-success{
+    background-color:greenyellow;
+    color: black;
+    border: none;
+}
+
